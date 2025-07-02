@@ -3,10 +3,10 @@ const emilyRoute = (req, res) => {
 };
 
 const hannahRoute = (req, res) => {
-    res.send('Emily Birch');
+    res.send('Hannah Birch');
 };
 
 module.exports = {
     emilyRoute,
-    hannahRoute,
+    hannahRoute
 };
