@@ -11,11 +11,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorlandoJunior/cse341.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NorlandoJunior/cse341/issues"
+  },
+  "homepage": "https://github.com/NorlandoJunior/cse341#readme",
+  "description": ""
 }
